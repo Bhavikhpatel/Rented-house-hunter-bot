@@ -1,5 +1,5 @@
 # rented-house-hunter-bot
-====================
+
 "I've developed an automation bot adept at efficiently scraping data from the web and seamlessly uploading it into a spreadsheet. This project leverages a combination of technologies, including:
 
 Python: Serving as the backbone of the automation process.
