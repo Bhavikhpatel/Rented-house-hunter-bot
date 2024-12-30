@@ -1,5 +1,0 @@
-1. bs4
-2. tkinter
-3. selenium
-4. time
-5. requests
