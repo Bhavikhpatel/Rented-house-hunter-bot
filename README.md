@@ -3,6 +3,8 @@
 A desktop application that automates the process of finding rental properties on MagicBricks.com, scrapes the results, and populates them into a Google Sheet for easy tracking.
 ---
 
+[![Watch the demo on LinkedIn](./assests/cover_page.png)](https://www.linkedin.com/posts/bhavikhpatel_python-selenium-tkinter-activity-7183041676662251520-0Gvk)
+
 ## 🚀 Features
 
 -   **Graphical User Interface (GUI)**: An intuitive interface built with Tkinter to input your search criteria.
